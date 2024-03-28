@@ -6,20 +6,23 @@
   outline-style: none;
   box-sizing: border-box;
 }
+
 a {
   color: #000;
   text-decoration: none;
 }
-/* a:active {
+a:active {
 }
 a:visited {
 }
 a:hover {
-} */
+}
+
 img {
   border: 0;
   vertical-align: middle;
 }
+
 ul,
 li {
   list-style: none;
@@ -27,8 +30,8 @@ li {
 html {
   font-size: 10px;
 }
+
 body {
-  background: #eaeaea;
   font-family: "Noto Sans KR", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   font-size: 1rem;
   font-weight: 400;
